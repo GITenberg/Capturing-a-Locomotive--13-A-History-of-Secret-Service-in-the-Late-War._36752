@@ -1,0 +1,30 @@
+_repo: Capturing-a-Locomotive--13-A-History-of-Secret-Service-in-the-Late-War._36752
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 36752-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Pittenger, William
+    birthdate: 1840
+    deathdate: 1904
+    gutenberg_agent_id: '2464'
+    url: http://www.gutenberg.org/2009/agents/2464
+description: 'First edition, 1863, and the editions of 1864 and 1887 appeared under
+  title "Daring and suffering"; later editions have title: "The great locomotive chase".'
+gutenberg_bookshelf: US Civil War
+gutenberg_issued: '2011-07-17'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '36752'
+  lccn: '18018265'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'E456'
+- !lcsh 'Chattanooga Railroad Expedition, 1862'
+- !lcsh 'United States -- History -- Civil War, 1861-1865 -- Campaigns'
+title: 'Capturing a Locomotive: A History of Secret Service in the Late War.'
+url: http://www.gutenberg.org/ebooks/36752
