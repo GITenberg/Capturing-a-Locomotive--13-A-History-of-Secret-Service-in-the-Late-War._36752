@@ -12,6 +12,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/2464
 description: 'First edition, 1863, and the editions of 1864 and 1887 appeared under
   title "Daring and suffering"; later editions have title: "The great locomotive chase".'
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/36752#Capturing-a-Locomotive--13-A-History-of-Secret-Service-in-the-Late-War.
 gutenberg_bookshelf: US Civil War
 gutenberg_issued: '2011-07-17'
 gutenberg_type: Text
